@@ -1,7 +1,6 @@
 # Netology Docker Homework
 
-Автор: **SHDH**  
-DockerHub: [https://hub.docker.com/r/maxpert/custom-nginx](https://hub.docker.com/r/maxpert/custom-nginx)
+Автор: Pertsev Maxim  
 
 ---
 
